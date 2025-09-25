@@ -1,6 +1,6 @@
 # I'm Jueun
-제주대학교 데이터사이언스학과 3학년
-CPS Lab 소속
+Jeju National University, Data Science
+Cyber-Physical Systems Laboratory (CPS Lab)
 
 ---
 
@@ -35,7 +35,3 @@ CPS Lab 소속
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j8evn&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=j8evn&show_icons=true)
 
----
-
-## 📫 Contact
-[![Email](https://img.shields.io/badge/jueunjin365@gmail.com%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jueunjin365@gmail.com)
