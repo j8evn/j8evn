@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:87CEFA&height=200&section=header&text=Jueun%20Jin&fontSize=50&fontColor=ffffff)
 
-Jeju National University, Data Science<br>
-Cyber-Physical Systems Laboratory (CPS Lab)
+- Jeju National University, Data Science<br>
+- Cyber-Physical Systems Laboratory (CPS Lab)
 
 ---
 
