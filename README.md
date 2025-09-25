@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:87CEFA&height=200&section=header&text=Jueun%20Jin&fontSize=50&fontColor=ffffff)
 
-# Hi, I'm Jueun
 Jeju National University, Data Science<br>
 Cyber-Physical Systems Laboratory (CPS Lab)
 
