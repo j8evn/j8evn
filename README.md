@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:87CEFA&height=200&section=header&text=Jueun%20Jin&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1C1C1C&height=200&section=header&text=Jueun%20Jin&fontSize=50&fontColor=ffffff)
 
 - Jeju National University, Data Science<br>
 - Cyber-Physical Systems Laboratory (CPS Lab)
@@ -32,7 +32,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j8evn&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=j8evn&show_icons=true)
 
