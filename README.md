@@ -38,4 +38,4 @@ CPS Lab 소속
 ---
 
 ## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-your.email%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jueunjin365@gmail.com)
+[![Email](https://img.shields.io/badge/jueunjin365@gmail.com%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jueunjin365@gmail.com)
