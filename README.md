@@ -32,7 +32,4 @@
 
 ---
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j8evn&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=j8evn&show_icons=true)
 
