@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1C1C1C&height=200&section=header&text=Hi,%20I'm%20Jueun&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,100:CBF3F0&height=200&section=header&text=Hi,%20I'm%20Jueun&fontSize=50&fontColor=ffffff)
 
 ## About Me
 * B.S. in **Data Science**, **Jeju National University**
