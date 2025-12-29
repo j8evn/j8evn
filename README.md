@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### Tools & Environment
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,notion,slack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion,slack)](https://skillicons.dev)
 
 ---
 
