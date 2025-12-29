@@ -5,19 +5,9 @@
 * Member of **Cyber-Physical Systems Laboratory (CPS Lab)**
 
 ---
-## Tech Stack
+## Tools & Skills
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,html,css,react,nodejs,fastapi,mysql,git,github,gitlab,notion,slack)](https://skillicons.dev)
 
-### Language
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,html,css)](https://skillicons.dev)
-
-### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,fastapi)](https://skillicons.dev)
-
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-### Tools & Environment
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,notion,slack)](https://skillicons.dev)
 
 ---
 
