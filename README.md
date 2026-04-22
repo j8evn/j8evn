@@ -13,5 +13,4 @@
 
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zz0)](https://solved.ac/profile/zz0)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=zz0&theme=warm)
 
