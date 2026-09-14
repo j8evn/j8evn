@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 **Data Science · AI · Backend · IT Operations & Security**
 
 B.S. Data Science · Jeju National University `2023 — 2027`
@@ -16,8 +15,8 @@ B.S. Data Science · Jeju National University `2023 — 2027`
 | Period              | Organization     | Role                     |
 | :------------------ | :--------------- | :----------------------- |
 | `2026.08 — Present` | **SK PINX**      | IT Operations & Security |
-| `2025.09 — 2026.08` | **Metaflyer**    | AI Development           |
-| `2025.07 — 2025.08` | **A1 Mobilsoft** | Web Development          |
+| `2025.09 — 2026.08` | **Metaflyer**    | AI & Backend Development |
+| `2025.07 — 2025.08` | **A1 Mobilsoft** | Web Development |
 
 ---
 
@@ -25,7 +24,7 @@ B.S. Data Science · Jeju National University `2023 — 2027`
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,html,css,react,nodejs,fastapi,mysql,oracle,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,html,css,react,nodejs,fastapi,mysql,linux,git,github)](https://skillicons.dev)
 
 </div>
 
@@ -33,11 +32,11 @@ B.S. Data Science · Jeju National University `2023 — 2027`
 
 ## 🏆 Awards
 
-🥉 **2025 제주 IP정보활용 발명아이디어 경진대회** — 동상
+🥉 **2025 제주 IP정보활용 발명아이디어 경진대회 동상**
 
-🏅 **2024 제주 디지털 신기술 활용 아이디어 공모전** — 우수상
+🏅 **2024 제주 디지털 신기술 활용 아이디어 공모전 우수상**
 
-🏁 **2024 ICPC Korea Regional** — Regional 진출
+🏁 **2024 ICPC Korea Regional 진출**
 
 ---
 
@@ -48,13 +47,3 @@ B.S. Data Science · Jeju National University `2023 — 2027`
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zz0)](https://solved.ac/profile/zz0)
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=j8evn&show_icons=true&hide_border=true&rank_icon=github" />
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:CBF3F0,100:2EC4B6\&height=120\&section=footer)
