@@ -25,29 +25,9 @@ B.S. Data Science · Jeju National University `2023 — 2027`
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,html,css,react,nodejs,fastapi,mysql,linux,git,github,gitlab,notion,slack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,java,html,css,react,nodejs,fastapi,mysql,oracle,linux,git,github)](https://skillicons.dev)
 
 </div>
-
----
-
-## 🔬 Research & Patents
-
-### Research
-
-| Year | Publication                                                |
-| :--: | :--------------------------------------------------------- |
-| 2025 | LLM 기반 심전도 스트림 탐색 기법                                       |
-| 2025 | FHIR 클라이언트 서버 인터페이스 구현                                     |
-| 2024 | 안드로이드 기반 의료정보 클라우드 접근 기법의 설계                               |
-| 2024 | Voting-based detection of real-time healthcare data stream |
-| 2023 | 구글 클라우드 상에서 심전도 데이터 스트림의 FHIR 객체화                          |
-| 2023 | 구글 클라우드 FHIR 객체의 BigQuery 수행                               |
-
-### Patents
-
-* 이상 심전도 탐지 방법 및 장치
-* 학생-교사 매칭 방법 및 장치
 
 ---
 
@@ -73,7 +53,7 @@ B.S. Data Science · Jeju National University `2023 — 2027`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=j8evn&show_icons=true&hide_border=true&rank_icon=github" />
 
 </div>
 
